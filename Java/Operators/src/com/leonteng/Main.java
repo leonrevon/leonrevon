@@ -10,6 +10,6 @@ public class Main {
 
         if (wasCar)
             System.out.println("wasCar is true");
-        
+
     }
 }
